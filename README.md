@@ -21,3 +21,8 @@ npm install -g wscat
 wscat -c localhost:8080
 ```
 
+#### Useful Resources for A Deep Dive
+* https://ably.com/topic/websockets
+* https://en.wikipedia.org/wiki/WebSocket
+* https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
+* https://docs.oracle.com/javase/tutorial/networking/sockets/index.html
